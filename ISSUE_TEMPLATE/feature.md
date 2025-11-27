@@ -1,10 +1,8 @@
 ---
-name: "✨ feature:"
+name: "✨ feature:"
 about: feature 템플릿입니다.
-title: "✨ feature:"
-labels: "✨ feature"
-assignees: ''
-
+title: "✨ feature:"
+labels: ["✨ feature"]
 ---
 
 ## 🚀 새 기능 (What & Why?)
