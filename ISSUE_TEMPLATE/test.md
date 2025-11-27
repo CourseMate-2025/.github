@@ -2,9 +2,7 @@
 name: "✅ test:"
 about: 테스트 템플릿입니다
 title: "✅ test:"
-labels: "✅ test"
-assignees: ''
-
+labels: ["✅ test"]
 ---
 
 ## 🎯 테스트 목적 (What & Why?)
