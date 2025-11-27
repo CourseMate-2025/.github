@@ -1,10 +1,8 @@
 ---
-name: "♻️ refactor:"
+name: "♻️ refactor:"
 about: 리팩토링 템플릿입니다.
-title: "♻️ refactor:"
-labels: "♻️ refactor"
-assignees: ''
-
+title: "♻️ refactor:"
+labels: ["♻️ refactor"]
 ---
 
 ## 📌 개요 (What & Why?)
